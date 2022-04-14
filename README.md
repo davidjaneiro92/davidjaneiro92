@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi, I'm David Santos de Santana!
 
-<!--
-**davidjaneiro92/davidjaneiro92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 I have a degree in System Analysis and Development at the University of São Paulo - USP, located in São Paulo, Brazil..
+
+📚 I have experience in JavaScript, HTML5, CSS, Bootstrap, jquery, C#, ASP.NET, API and SQL SERVER.
+I have skills with Node, React, Angular, Ionic and MySql.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
