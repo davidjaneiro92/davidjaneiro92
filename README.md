@@ -14,12 +14,14 @@
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="DS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DS-Typscript" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F102466%2Ffile-type-typescript&psig=AOvVaw1xyBwycL7jnw88VNq0_nhB&ust=1686662224299000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICCn93ovf8CFQAAAAAdAAAAABAc">
+  <img align="center" alt="DS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+ <img align="center" alt="DS-Typscript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">  
   <img align="center" alt="DS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="DS-Angular" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAngular_%2528framework%2529&psig=AOvVaw38GWHz896-gHiwUaKU7ylf&ust=1686662519693000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjD8dTpvf8CFQAAAAAdAAAAABAF">
-  <img align="center" alt="DS-Bootstrap " height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBootstrap_%2528front-end_framework%2529&psig=AOvVaw145-QknjnR4nr96OxsUwOA&ust=1686662495566000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNi8p8npvf8CFQAAAAAdAAAAABAE">
+ 
+  <img align="center" alt="DS-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="DS-Bootstrap " height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
+
   <img align="center" alt="DS-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="DS-.net" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png">
  
