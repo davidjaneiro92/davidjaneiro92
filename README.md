@@ -3,7 +3,7 @@
 
 - 👨🏾‍🎓 Degree in System Analysis and Development at the University of São Paulo.<br/>
 - 📚 I have experience in JavaScript, HTML5, CSS, Bootstrap, jquery, C#, ASP.NET, API and SQL SERVER.<br/>
-- 📝I have skills with, PHP, Node, React, Angular, Ionic and MySql.<br/>
+- 📝I have skills with, Node, React, Angular, Ionic and MySql.<br/>
 
 
 <div>
