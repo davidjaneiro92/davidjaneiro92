@@ -57,9 +57,10 @@
 
 ### 🐍 Contributions Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/davidjaneiro92/davidjaneiro92/raw/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/davidjaneiro92/davidjaneiro92/raw/main/dist/github-contribution-grid-snake.svg">
   <img alt="snake gif" src="https://github.com/davidjaneiro92/davidjaneiro92/raw/main/dist/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
