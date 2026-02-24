@@ -1,21 +1,101 @@
-# 👋 Hi, I'm David Santos de Santana!
+# David Santos de Santana
 
-🎓 **Graduated in Systems Analysis and Development** from the University of São Paulo.  
-💻 Passionate about technology, with solid experience in frontend and backend development.  
-🚀 Always learning and exploring new tools, frameworks, and best practices.
+Full Stack Developer | .NET | Angular | Flutter | Microsserviços
 
----
+Desenvolvedor Full Stack com quase 5 anos de experiência construindo aplicações web e mobile escaláveis, seguras e organizadas.
 
-### 🧠 Skills & Technologies
+Experiência sólida em **.NET Core, DDD, SOLID, CQRS, MediatR, Angular (Lazy Load) e Flutter (MVVM)**.
+Atuação com microsserviços, mensageria com Kafka e deploy em ambientes Docker e Kubernetes.
 
-- **Languages:** JavaScript, TypeScript, C#, HTML5, CSS3, SQL  
-- **Frameworks & Libraries:** Angular, Ionic, Bootstrap, jQuery, Node.js, .NET, MAUI  
-- **Databases:** SQL Server, MySQL  
-- **Other:** RESTful APIs, Git, GitHub
+Foco em arquitetura bem definida, código limpo e manutenção de longo prazo.
 
 ---
 
-### 📊 GitHub Stats
+## Stack Técnica
+
+### Backend
+
+* C# (.NET Core / ASP.NET Core)
+* DDD
+* SOLID
+* CQRS + MediatR
+* Dapper
+* SQLKata
+* FluentValidation
+* JWT Authentication
+* AutoMapper
+* LINQ e Expressões Lambda
+
+### Frontend
+
+* Angular (Lazy Loading)
+* TypeScript
+* PrimeNG
+* Bootstrap
+* jQuery
+* JavaScript
+
+### Mobile
+
+* Flutter
+* GetX
+* MVVM
+* Dio
+* Intl
+
+### Banco de Dados
+
+* MySQL
+* MariaDB
+* MongoDB
+
+### DevOps & Infra
+
+* Docker
+* Kubernetes
+* IIS
+* Git
+* Confluence
+
+### Integração & Arquitetura
+
+* Kafka
+* Debezium (CDC)
+* Microsserviços
+* Monolito Modular
+* Clean Architecture
+* Design Patterns
+* TDD
+
+---
+
+## Diferenciais Técnicos
+
+* Estruturação de código base modular reaproveitável
+* Organização por camadas (Domain, Application, Infrastructure)
+* Separação clara de responsabilidades
+* Aplicação prática de padrões como Repository, Unit of Work e Mediator
+* Integração de sistemas corporativos e meios de pagamento
+* Implantação e orquestração de ambientes containerizados
+
+---
+
+## Experiência Profissional
+
+**Desenvolvedor Full Stack Pleno**
+Projetos corporativos web e mobile com foco em performance, segurança e escalabilidade.
+
+Atuação com:
+
+* APIs REST seguras com JWT
+* Integração entre serviços via mensageria
+* Aplicações multiplataforma com Flutter
+* Deploy com Docker e Kubernetes
+* Arquitetura baseada em boas práticas consolidadas
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidjaneiro92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -24,42 +104,10 @@
 
 ---
 
-### 🛠️ Tools I Use
+## Contato
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-</div>
+LinkedIn:
+[https://www.linkedin.com/in/david-santos-de-santana-59a120199](https://www.linkedin.com/in/david-santos-de-santana-59a120199)
 
----
-
-### 📫 Connect with Me
-
-<div>
-  <a href="https://www.instagram.com/davids.santanas250192/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
-  <a href="mailto:davidjaneiro92@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/david-santos-de-santana-59a120199" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
----
-
-### 🐍 Contributions Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ewerthondev/ewerthondev/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snake gif" src="https://github.com/ewerthondev/ewerthondev/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
+Email:
+[davidjaneiro92@gmail.com](mailto:davidjaneiro92@gmail.com)
