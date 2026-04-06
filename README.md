@@ -1,29 +1,29 @@
 <div align="center">
 
-# 👋 Hi, I'm David Santos de Santana!
+# 👋 Olá, eu sou David Santos de Santana!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=25&center=true&vCenter=true&width=600&lines=Systems+Analysis+and+Development;Frontend+%26+Backend+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=25&center=true&vCenter=true&width=600&lines=Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Frontend+%26+Backend;Sempre+aprendendo+novas+tecnologias)](https://git.io/typing-svg)
 
-🎓 **Graduated in Systems Analysis and Development** from the University of São Paulo
-💻 Passionate about technology, with solid experience in frontend and backend development
-🚀 Always learning and exploring new tools, frameworks, and best practices
+🎓 **Formado em Análise e Desenvolvimento de Sistemas** pela Universidade de São Paulo
+💻 Apaixonado por tecnologia, com experiência sólida em desenvolvimento frontend e backend
+🚀 Sempre aprendendo e explorando novas ferramentas, frameworks e boas práticas
 
 </div>
 
 ---
 
-### 🧠 Skills & Technologies
+### 🧠 Habilidades & Tecnologias
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | JavaScript, TypeScript, C#, HTML5, CSS3, SQL |
-| **Frameworks & Libraries** | Angular, Ionic, Bootstrap, jQuery, Node.js, .NET, MAUI |
-| **Databases** | SQL Server, MySQL |
-| **Other** | RESTful APIs, Git, GitHub |
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Linguagens** | JavaScript, TypeScript, C#, HTML5, CSS3, SQL |
+| **Frameworks & Bibliotecas** | Angular, Ionic, Bootstrap, jQuery, Node.js, .NET, MAUI |
+| **Bancos de Dados** | SQL Server, MySQL |
+| **Outros** | APIs RESTful, Git, GitHub |
 
 ---
 
-### 🛠️ Tools I Use
+### 🛠️ Ferramentas que Uso
 
 <div align="center"><br>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -53,20 +53,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidjaneiro92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidjaneiro92&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidjaneiro92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidjaneiro92&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidjaneiro92&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidjaneiro92&theme=tokyonight&locale=pt_BR" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/david-santos-de-santana-59a120199" target="_blank">
@@ -84,7 +84,7 @@
 
 ---
 
-### 🐍 Contributions Snake
+### 🐍 Contribuições Snake
 
 <div align="center">
   <picture>
@@ -96,5 +96,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=davidjaneiro92&color=70a5fd&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=davidjaneiro92&color=70a5fd&style=flat-square" alt="Visualizações do perfil"/>
 </div>
