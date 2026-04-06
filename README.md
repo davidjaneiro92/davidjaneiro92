@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Olá, eu sou David Santos de Santana!
+# 👋 Olá, eu sou David Santos De Santana!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=25&center=true&vCenter=true&width=600&lines=Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Frontend+%26+Backend;Sempre+aprendendo+novas+tecnologias)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=25&center=true&vCenter=true&width=600&lines=Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Full+Stack+Pleno;Sempre+aprendendo+novas+tecnologias)](https://git.io/typing-svg)
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas** pela Universidade de São Paulo
-💻 Apaixonado por tecnologia, com experiência sólida em desenvolvimento frontend e backend
+🎓 **Formado em Análise e Desenvolvimento de Sistemas** pela Universidade Cidade de São Paulo (UNICID)
+💻 Desenvolvedor Full Stack Pleno | C# ASP.Net, API Rest, Angular, TypeScript, Flutter, Dart
 🚀 Sempre aprendendo e explorando novas ferramentas, frameworks e boas práticas
 
 </div>
@@ -16,39 +16,52 @@
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| **Linguagens** | JavaScript, TypeScript, C#, HTML5, CSS3, SQL |
-| **Frameworks & Bibliotecas** | Angular, Ionic, Bootstrap, jQuery, Node.js, .NET, MAUI |
-| **Bancos de Dados** | SQL Server, MySQL |
-| **Outros** | APIs RESTful, Git, GitHub |
+| **Back-end** | C# (.NET Core), DDD, SOLID, MediatR, Dapper, SQLKata, FluentValidation |
+| **Front-end** | Angular, TypeScript, JavaScript, jQuery, PrimeNG, Bootstrap, CSS, Ajax |
+| **Mobile** | Flutter com GetX (MVVM), Intl, Dio |
+| **Bancos de Dados** | MySQL, MariaDB, MongoDB |
+| **Infraestrutura** | Docker, Kubernetes, Git, IIS |
+| **Arquitetura** | Monolito Modular, APIs REST, Microsserviços, Clean Architecture, MVVM |
+| **Práticas** | SOLID, Clean Code, CQRS, TDD, Design Patterns |
 
 ---
 
 ### 🛠️ Ferramentas que Uso
 
 <div align="center"><br>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  &nbsp;
+  <img align="center" alt=".NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  &nbsp;
+  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   &nbsp;
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  &nbsp;
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  &nbsp;
+  <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  &nbsp;
+  <img align="center" alt="Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   &nbsp;
   <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   &nbsp;
   <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   &nbsp;
-  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  &nbsp;
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   &nbsp;
-  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  &nbsp;
-  <img align="center" alt=".NET" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-  &nbsp;
-  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  &nbsp;
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="jQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   &nbsp;
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   &nbsp;
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  &nbsp;
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  &nbsp;
+  <img align="center" alt="Kubernetes" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  &nbsp;
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  &nbsp;
+  <img align="center" alt="Kafka" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
 </div>
 
 ---
